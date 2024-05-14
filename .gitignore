@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+"files.exclude": {
+    "**/.gitignore": false
+}
 
 # C extensions
 *.so
